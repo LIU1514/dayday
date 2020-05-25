@@ -9,7 +9,7 @@ friend["peggy"] = []
 friend["thom"] = [] 
 friend["jonny"] = []
 
-print(friend["you"]["bob"])
+print(friend["you"] )
 
 """
 #what: 
